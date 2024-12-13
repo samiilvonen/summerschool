@@ -247,7 +247,7 @@ program demoprogram
   deallocate(b)
 
 end program demoprogram
-```fortran
+```
 
 Compile the code:
 
